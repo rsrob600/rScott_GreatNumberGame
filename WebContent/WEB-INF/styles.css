@@ -1,0 +1,59 @@
+@charset "ISO-8859-1";
+
+
+.container{
+	width: 800px;
+	min-height: 500px;
+	margin: 0px auto;
+	text-align: center;
+	font-family: "Comic Sans MS", Arial, Helvetica;
+}
+	
+	
+.header{
+	width: auto;
+	height: 50px;
+	text-align: center;
+	display: block;
+	background-color: #ff00ff;
+}
+
+div.alertBox{
+	width: auto;
+	height: 800px;
+	text-align: center;
+	display: block;
+	background-color: #ff8040;
+}
+
+div.correct{
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	display: block;
+	background-color: #80ff00;
+}
+
+div.tooHigh{
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	display: block;
+	background-color: #ff0000;
+}
+
+div.tooLow{
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	display: block;
+	background-color: #ff0000;
+}
+
+div.gameOver{
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	display: block;
+	background-color: #ff0000;
+}
